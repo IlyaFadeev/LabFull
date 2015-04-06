@@ -80,7 +80,7 @@ public class SynchronizedVector implements Vector {
     {
         synchronized (vector)
         {
-            return vector.hashCode() ^ 1234567890;
+            return vector.hashCode() ^ 123567890;
         }
     }
 

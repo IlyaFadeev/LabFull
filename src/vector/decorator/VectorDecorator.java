@@ -51,6 +51,10 @@ public class VectorDecorator implements Vector {
     {
         return vector.equals(vector);
     }
+    public Object clone()
+    {
+        return vector.clone();
+    }
 
 
 
