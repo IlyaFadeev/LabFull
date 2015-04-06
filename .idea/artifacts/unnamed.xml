@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab#3</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/vector/exceptions/IncompatibleVectorSizesException.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/vector/exceptions/VectorIndexOutOfBoundsException.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/vector/interfaces/Vector.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/vector/ArrayVector.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/vector/LinkedListVector.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/vector/Vectors.java" />
+    </root>
+  </artifact>
+</component>
